@@ -1,0 +1,9 @@
+Michael Barnes is the Medical Physicist at the Calvary Mater Hospital, NSW. He has done the manual measurement to be compared to the result from my code. He also has given many valuable comments to improve my code. 
+
+Peter Stanwell is an Associate Professor at the University of Newcastle. He has provided me with useful background information on the MRI and ACR phantom at early stage of this project. 
+
+Hunter New England Imaging, NSW radiographers, Jameen Arm, Leah Best, Melissa Murphy, Nick Marks and Narelle Grabham, have help me to acquire phantom images. 
+
+Peter B Greer (University of Newcastle), Jason Dowling (CSIRO Australian E-Health Centre) and Fred Menk (University of Newcastle) are my supervisors, who supervise me over my PhD study 2011-2015 (expected). 
+
+This project has used several codes written by other people in order to reduce my workload, details can be seen in codes. I thank them for their code as well.

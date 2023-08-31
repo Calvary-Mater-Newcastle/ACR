@@ -1,0 +1,14 @@
+test_choice='Demo';%str,'Demo' or 'MySite'
+scanner_num=1;%bin,1=single or 0=multiple
+imag_check=0;%bin,1 or 0
+myContrast=0.003;%num,value or 0
+pill_choice_S1=0;%bin,1 or 0
+pill_choice_S5=0;%bin,1 or 0
+pill_choice_S7=0;%bin,1 or 0
+pill_choice_S11=0;%bin,1 or 0
+pill_r=4;%num,value in mm
+BField_strength='3T';%str,'1.5T' or '3T'
+HCSR_choice=0;%bin,0=auto or 1=manual
+PIU_choice=0;%bin,0=auto or 1=manual
+LCOD_choice=1;%bin,0=auto or 1=manual,FUNCTION WRITTEN BUT REQUIRES EXTENSIVE TEST,BETTER CHOOSE MANUAL
+visual=0;%bin,1 or 0,ONLY TURN THIS TO 1 WHEN DOING INDIVIDUAL TEST OR YOUR SCREEN WILL BE FULL OF GRAPHS

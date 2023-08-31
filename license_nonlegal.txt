@@ -1,0 +1,5 @@
+The "license.txt" file was adopted from other software license format. It was there just for some so-called legal stuff. 
+
+Personally speaking, everyone is welcome to use this program and welcome to contribute (improve and/or modify). I'm not a programmer, so there may be bug and some parts of code may be less efficient. I have tested the code on several images and scanners, it may need to be tested on more. So before using this program for clinical purpose, please verify it on your centre's image. 
+
+The program is free ("free as in freedom"). 
